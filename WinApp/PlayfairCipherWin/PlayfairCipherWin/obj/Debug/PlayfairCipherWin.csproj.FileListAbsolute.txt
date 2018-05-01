@@ -1,0 +1,9 @@
+c:\users\am7\documents\visual studio 2015\Projects\PlayfairCipherWin\PlayfairCipherWin\bin\Debug\PlayfairCipherWin.exe.config
+c:\users\am7\documents\visual studio 2015\Projects\PlayfairCipherWin\PlayfairCipherWin\bin\Debug\PlayfairCipherWin.exe
+c:\users\am7\documents\visual studio 2015\Projects\PlayfairCipherWin\PlayfairCipherWin\bin\Debug\PlayfairCipherWin.pdb
+c:\users\am7\documents\visual studio 2015\Projects\PlayfairCipherWin\PlayfairCipherWin\obj\Debug\PlayfairCipherWin.csprojResolveAssemblyReference.cache
+c:\users\am7\documents\visual studio 2015\Projects\PlayfairCipherWin\PlayfairCipherWin\obj\Debug\PlayfairCipherWin.Form1.resources
+c:\users\am7\documents\visual studio 2015\Projects\PlayfairCipherWin\PlayfairCipherWin\obj\Debug\PlayfairCipherWin.Properties.Resources.resources
+c:\users\am7\documents\visual studio 2015\Projects\PlayfairCipherWin\PlayfairCipherWin\obj\Debug\PlayfairCipherWin.csproj.GenerateResource.Cache
+c:\users\am7\documents\visual studio 2015\Projects\PlayfairCipherWin\PlayfairCipherWin\obj\Debug\PlayfairCipherWin.exe
+c:\users\am7\documents\visual studio 2015\Projects\PlayfairCipherWin\PlayfairCipherWin\obj\Debug\PlayfairCipherWin.pdb
